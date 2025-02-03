@@ -1,0 +1,7 @@
+# personal build script, just make your own lol its literally two commands
+build.sh
+
+# pyinstaller generated
+build/
+dist/
+mpb.spec
